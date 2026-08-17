@@ -1,0 +1,25 @@
+google-genai==1.27.0
+pandas==2.3.1
+pydantic==2.11.7
+python-dotenv==1.1.1
+streamlit==1.47.1
+tqdm==4.67.1
+
+# requirements.txt
+#
+# This file defines the Python dependencies required by the application.
+# Specifying package versions helps ensure consistent and reproducible
+# environments across development, testing, and production.
+#
+# Versions should be updated gradually rather than all at once.
+# This allows us to test compatibility and identify any issues introduced
+# by dependency upgrades.
+#
+# Recommended approach:
+# 1. Pin the currently tested/stable version.
+# 2. Upgrade dependencies gradually.
+# 3. Test the application after each upgrade.
+# 4. Update the version in this file once validated.
+
+# pip install -r requirements.txt
+# pip list
